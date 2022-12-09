@@ -1,0 +1,8 @@
+prefix=/home/erts/r1_wiki_ws/devel
+
+Name: task_one
+Description: Description of task_one
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
